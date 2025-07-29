@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cbaudrau/volleyballheatmap/static/css/main.e6c13ad2.css",
-    "main.js": "/cbaudrau/volleyballheatmap/static/js/main.b1c0fed2.js",
-    "static/js/453.d375530f.chunk.js": "/cbaudrau/volleyballheatmap/static/js/453.d375530f.chunk.js",
-    "index.html": "/cbaudrau/volleyballheatmap/index.html",
-    "main.e6c13ad2.css.map": "/cbaudrau/volleyballheatmap/static/css/main.e6c13ad2.css.map",
-    "main.b1c0fed2.js.map": "/cbaudrau/volleyballheatmap/static/js/main.b1c0fed2.js.map",
-    "453.d375530f.chunk.js.map": "/cbaudrau/volleyballheatmap/static/js/453.d375530f.chunk.js.map"
+    "main.css": "/volleyballheatmap/static/css/main.e6c13ad2.css",
+    "main.js": "/volleyballheatmap/static/js/main.d74435be.js",
+    "static/js/453.d375530f.chunk.js": "/volleyballheatmap/static/js/453.d375530f.chunk.js",
+    "index.html": "/volleyballheatmap/index.html",
+    "main.e6c13ad2.css.map": "/volleyballheatmap/static/css/main.e6c13ad2.css.map",
+    "main.d74435be.js.map": "/volleyballheatmap/static/js/main.d74435be.js.map",
+    "453.d375530f.chunk.js.map": "/volleyballheatmap/static/js/453.d375530f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b1c0fed2.js"
+    "static/js/main.d74435be.js"
   ]
 }
